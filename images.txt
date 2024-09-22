@@ -8,3 +8,4 @@ mariadb:10.5.11
 rimag/frp:client-0.34.3
 jeessy/ddns-go
 neilpang/acme.sh
+rustdesk/rustdesk-server:latest
