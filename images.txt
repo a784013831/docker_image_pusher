@@ -9,3 +9,5 @@ rimag/frp:client-0.34.3
 jeessy/ddns-go
 neilpang/acme.sh
 rustdesk/rustdesk-server-s6:latest
+lejianwen/rustdesk-api
+rustdesk/rustdesk-server
