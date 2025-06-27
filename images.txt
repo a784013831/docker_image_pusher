@@ -11,3 +11,4 @@ neilpang/acme.sh
 rustdesk/rustdesk-server-s6:latest
 lejianwen/rustdesk-api
 rustdesk/rustdesk-server
+lejianwen/rustdesk-server-s6:latest
