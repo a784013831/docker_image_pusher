@@ -12,3 +12,4 @@ rustdesk/rustdesk-server-s6:latest
 lejianwen/rustdesk-api
 rustdesk/rustdesk-server
 lejianwen/rustdesk-server-s6:latest
+mysql:8.0
